@@ -9,5 +9,8 @@
         <module name="power" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="power" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
